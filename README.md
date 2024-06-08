@@ -28,6 +28,7 @@ Multilingual support
 ![Screenshot 2024-06-08 192650](https://github.com/Vinayakkhot/Comperehensive-COVID-19-Data-and-Resources/assets/123005178/9c86fc69-15ab-4cfd-b9db-42abbd097dd1)
 
 
+![Screenshot 2024-06-08 193300](https://github.com/Vinayakkhot/Comperehensive-COVID-19-Data-and-Resources/assets/123005178/e0505b4b-8d5a-4421-b440-916247ee9c18)
 
 
 
