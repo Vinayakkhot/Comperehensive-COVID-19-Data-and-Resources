@@ -17,6 +17,7 @@ Additional API integrations for vaccination and variants tracking
 Interactive data visualization
 Multilingual support
 
+![Screenshot 2024-06-08 191431](https://github.com/Vinayakkhot/Comperehensive-COVID-19-Data-and-Resources/assets/123005178/49cdfce2-99f4-4e0d-9e27-30267c35900e)
 
 
 
