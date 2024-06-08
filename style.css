@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Open+Sans&family=Public+Sans:wght@200&family=Roboto:wght@300&display=swap');
+
+.cases .fa-solid{
+    color:blue;
+    font-size: 50px;
+}
+.card {
+    position:relative;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  
+        
+}
+
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+ 
+} 
+.main{
+    position:relative;
+    background-color:#C9FBFB;
+    width:100%;
+    height:120px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    
+}
+.fa-solid
+{
+    font-size:40px;
+    color:blue;
+}
+
+:root{
+    --red:blue;
+
+
+} 
+
+.video-container {
+    display: flex; /* Use flexbox for horizontal alignment */
+    overflow-x: auto; /* Enable horizontal scrolling if videos overflow container */
+    align-items: center; /* Center videos vertically within container */
+  }
+  
+  video {
+    max-width: 100%; /* Ensure videos scale properly */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px; /* Add some space between videos */
+  }
+  
+  video:last-child {
+    margin-right: 0; /* Remove margin from the last video to avoid unnecessary space */
+  }
+
+  *{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+  }
+  
+ 
